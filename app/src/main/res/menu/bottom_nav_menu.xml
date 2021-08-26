@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <item
+        android:id="@+id/menu_record"
+        android:title="record"
+        android:icon="@drawable/ic_baseline_event_note_24"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/menu_calender"
+        android:title="calender"
+        android:icon="@drawable/ic_baseline_calendar_today_24"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/menu_analysis"
+        android:title="analysis"
+        android:icon="@drawable/ic_baseline_analytics_24"
+        android:enabled="true"
+        />
+    <item
+        android:id="@+id/menu_edit"
+        android:title="edit"
+        android:icon="@drawable/ic_baseline_edit_24"
+        android:enabled="true"
+        />
+</menu>
